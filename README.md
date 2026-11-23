@@ -8,4 +8,6 @@ bu depo, Github 'i ogrenirken olusturdugum ilk depo
 -[ilk programim] 
 ![sakarya univeristesi]cicek.jpg
 
-
+##HOBIELERRR
+**chess**
+**piano**
