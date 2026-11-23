@@ -1,2 +1,9 @@
 # hello-github-
-**kalin**
+bu depo, Github 'i ogrenirken olusturdugum ilk depo
+
+##hakkimda 
+-**Computer science**
+-**i wonder ** 
+
+-[ilk programim] 
+
